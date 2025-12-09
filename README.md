@@ -1,4 +1,4 @@
-Welcome to the Phone Store development repository.
+Welcome to the Phone Store development repository. 📱
 
 The code provided is able to be run via XAMPP on your local machine (for dev and test purposes). Feel free to get it here: https://www.apachefriends.org/download.html if you don't have on yet
 
