@@ -1,10 +1,10 @@
 @extends('manager.layout')
 
-@section('title', 'Управление телефонами')
+@section('title', 'Управление каталогом')
 
 @section('content')
 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-    <h1 class="h2"><i class="fas fa-mobile-alt"></i> Управление телефонами</h1>
+    <h1 class="h2"><i class="fas fa-mobile-alt"></i> Управление каталогом</h1>
     <a href="{{ route('manager.phones.create') }}" class="btn btn-primary">
         <i class="fas fa-plus"></i> Добавить телефон
     </a>
