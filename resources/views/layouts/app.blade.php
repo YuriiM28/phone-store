@@ -142,7 +142,7 @@
                     <p class="mb-0">Лучший выбор мобильных телефонов</p>
                 </div>
                 <div class="col-md-6 text-end">
-                    <p class="mb-0">&copy; 2025 Phone Store. Все права защищены.</p>
+                    <p class="mb-0">&copy; 2025-2026 Phone Store. Все права защищены.</p>
                 </div>
             </div>
         </div>
