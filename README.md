@@ -6,7 +6,7 @@ You'll be using components Apache and MySQL.
 
 
 A step-by-step guide to execution:
-1. Clone/copy/download the full contents of the repository branch, depends on the version you need.
+1. Clone/copy/download the full contents of the repository branch, depends on the version you need. Move the folder inside of C:/xampp/htdocs/
 
 2. Make sure that your env. file parameters and settings fit your actual setup (take a close look at DB login and pass, that are for MySQL locally)
 
